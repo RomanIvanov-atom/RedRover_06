@@ -7,5 +7,7 @@ public class Main {
 
         test_2.print();
 
+        System.out.println("Everything is working fine");
+
     }
 }
